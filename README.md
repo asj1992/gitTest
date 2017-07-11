@@ -19,4 +19,5 @@
 ## v 6.0 ......end
 
 
-## v 7.0 ...... at master
+## v 7.0 at dev .....end
+
